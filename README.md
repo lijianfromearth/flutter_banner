@@ -1,8 +1,8 @@
 项目地址： [Github](https://github.com/LIJIANcoder97/flutter_banner)
 预览
-原版
+#### 原版
 <img src="https://github.com/LIJIANcoder97/flutter_banner/blob/master/example_00.png" width="300" height="500" alt="" align=center>
-其他项目中的应用
+##### 其他项目中的应用
 <img src="https://github.com/LIJIANcoder97/flutter_banner/blob/master/example_01.png" width="300" height="500" alt="" align=center>
 
 
